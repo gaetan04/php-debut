@@ -1,0 +1,48 @@
+
+nav{
+	width: 100%;
+	background-color: #424558;
+}
+nav ul{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+nav li{
+	list-style-type: none;
+	float: left;
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #FFF;  
+}
+ .menu-lpsic:hover{
+ 	border-top: 5px solid #e44d26;
+ 	background-color: rgba(228, 77, 38, 0.15);
+ } 
+ .menu-lpcq2sa:hover{
+ 	border-top: 5px solid #0070bb;
+ 	background-color: rgba(000, 112, 192, 0.15);
+ }
+ .menu-master:hover{
+ 	border-top: 5px solid #f1dc4f;
+ 	background-color: rgba(241, 211, 79 , 0.15);
+ }
+ .menu-accueil:hover{
+ 	border-top: 5px solid #BBB;
+ 	background-color: #BBA;
+ }
+ nav li:hover a{
+ 	padding: 15px 30px 20px 30px;
+ }
+ .table{
+ 	display: table;
+ 	margin: 0 auto;
+ }
+ 
+a:hover{
+	transition: 0.75s;
+	background-color: #BBA;
+}

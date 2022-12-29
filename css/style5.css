@@ -1,0 +1,7 @@
+body{
+	background-image: url(nature.jpeg);
+}
+
+fieldset{
+	column-width: 2;
+}
